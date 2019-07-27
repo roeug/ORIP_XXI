@@ -1,0 +1,11 @@
+:Base ChainSolver.hlp
+:Title ChainSolver Help
+1 Intro=Topic20
+1 License=License
+1 Contents=Topic10
+1 Program pages
+2 Chain page=Topic30@ChainSolver.hlp>Main
+2 Conditions page=Topic40@ChainSolver.hlp>Main
+2 Times page=Topic50@ChainSolver.hlp>Main
+2 Calc page=Topic60@ChainSolver.hlp>Main
+2 Answers page=Topic70@ChainSolver.hlp>Main

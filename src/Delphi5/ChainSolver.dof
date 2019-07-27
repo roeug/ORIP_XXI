@@ -1,0 +1,91 @@
+[Compiler]
+A=1
+B=0
+C=0
+D=1
+E=0
+F=0
+G=1
+H=1
+I=1
+J=1
+K=0
+L=1
+M=0
+N=1
+O=1
+P=1
+Q=1
+R=1
+S=0
+T=0
+U=1
+V=1
+W=1
+X=1
+Y=1
+Z=1
+ShowHints=1
+ShowWarnings=1
+UnitAliases=WinTypes=Windows;WinProcs=Windows
+[Linker]
+MapFile=0
+OutputObjs=0
+ConsoleApp=1
+DebugInfo=0
+RemoteSymbols=0
+MinStackSize=16384
+MaxStackSize=1048576
+ImageBase=4194304
+ExeDescription=
+[Directories]
+OutputDir=
+UnitOutputDir=
+PackageDLLOutputDir=
+PackageDCPOutputDir=
+SearchPath=$(DELPHI)\RX\Units
+Packages=Vcl50;vcldao;gmdbctrld5;gmdbgend5;GMUnitsd5;Vcldb50;Vclx50;mxFlatPack_D5;VclSmp50;mxNativeExcel_d5;dclocx50;RxCtl5;RxDB5;AddEuNT;FlatStyle_D5;gmctrlsd5;NMFast50;gmdaouid5;GMDaod5;Tst;Xqd5;CadoEu;MirrorKOLPackage;ibevnt50;Vclbde50;dclaxserver50;vcldbx50;vclie50;Inetdb50;Inet50;Qrpt50;TeeUI50;TeeDB50;Tee50;TeeQR50;VCLIB50
+Conditionals=RELEASE
+DebugSourceDirs=
+UsePackages=0
+[Parameters]
+RunParams=tst2.chn
+HostApplication=
+[Version Info]
+IncludeVerInfo=1
+AutoIncBuild=0
+MajorVer=2
+MinorVer=58
+Release=0
+Build=0
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=11273
+CodePage=1252
+[Version Info Keys]
+CompanyName=ORIP
+FileDescription=Calculates nuclide chains
+FileVersion=2.58.0.0
+InternalName=ChainSolver
+LegalCopyright=FREEWARE, dlls are under GNU Public license
+LegalTrademarks=FREEWARE, dlls are under GNU Public license
+OriginalFilename=ChainSolver.exe
+ProductName=ChainSolver
+ProductVersion=See File version
+Comments=E.G.Romanov (roeug20@gmail.com)
+[Excluded Packages]
+$(DELPHI)\Bin\dclite50.bpl=Borland Integrated Translation Environment
+$(DELPHI)\Projects\Bpl\AddEuNT.bpl=(untitled)
+[HistoryLists\hlConditionals]
+Count=1
+Item0=RELEASE
+[HistoryLists\hlUnitAliases]
+Count=2
+Item0=WinTypes=Windows;WinProcs=Windows
+Item1=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+[HistoryLists\hlSearchPath]
+Count=1
+Item0=$(DELPHI)\RX\Units

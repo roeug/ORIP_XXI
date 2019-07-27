@@ -1,0 +1,63 @@
+Evgeny Romanov Data Sheet
+
+ E.G.Romanov is the leader of Radio Isotopes Production Laboratory of "State Scientific Center of Russia, Research Institute of Atomic Reactors (SSC RIAR)" Division of Radionuclide Sources and Preparations
+
+Personal
+ Date of Birth: June 20, 1968, - Dimitrovgrad city, Ulyanovsk region, Russia, 
+ Status: 	Citizen of Russian Federation. Registration and permanent residency.Singe
+ Health: 	Good
+Education:
+ 1975-1985:	25th high school, Dimitrovgrad
+ 1985-1992	Moscow Institute of Physics and Technology, Department of General and Applied physics, chair of quantum                     radio-physics, Diploma in the field of applied mathematics and physics
+ 1992-1995	Post-graduate study in Moscow Institute of Physics and Technology, specialization in optical properties of                  solid state structures 
+ 2010      Ph.D degree in numerical simulation of nuclide transmutation networks
+Work experience:
+ 2008 - Ptresent: Research  Institute of Atomic Reactors, Dimitrovgrad, 
+		head of isotope production laboratory
+ 2002-2008	Research  Institute of Atomic Reactors, Dimitrovgrad, 
+		senior researcher.
+ 1995-2002	Research  Institute of Atomic Reactors, Dimitrovgrad, 
+		researcher.
+ 1992-1995	P.N.Lebedev Physical Institute, Solid State Physics Department,  
+                Laboratory of Low Dimension Structures, junior reseacher
+ 1990 - 1992  	P.N.Lebedev Physical Institute (Moscow), Solid State Physics Department,  
+                Laboratory of Low Dimension Structures, engineer
+Publications:	Annalen der Physik, 1993, Vol.2, pp.330-334.
+                Solid State Communications, 1994, Vol.92, pp.401-405 
+                Radiochemistry 2002, Vol.44, ¹3 pp.262-264,
+                Radiochemistry 2007, Vol.49, ¹3 pp.255-257,
+                in book Development of  188W production technology in "Therapeutic Radionuclide  
+                Generators: 90Sr/ 90Y and 188W/188Re" Generators" VIENNA, 2009 
+                ISBN 978- 92-0-111408-2
+Software: 	At OECD Nuclear Energy Agency Data Bank Computer Program Services
+  	         http://www.nea.fr/abs/html/iaea1384.html
+                 http://www.nea.fr/abs/html/iaea1404.html
+                 http://www.nea.fr/abs/html/iaea1405.html
+                At Radiation Safety Information Computational Center (Oak-Ridge National Laboratory)
+                 http://www-rsicc.ornl.gov/codes/ccc/ccc7/ccc-731.html
+
+Interests and skills:
+ Language       English
+ Others:        High precision accuracy particle transport simulation in complex multiplying an shielding systems,
+                including neutron, photon, and electron transport in high flux nuclear reactors,
+                multiplication factor and energy deposition calculations (experiences in both MCNP and Russian Monte-Carlo MCU codes)
+                Wide range FIR and optical spectroscopy experience, especially by use of high resolution scanning Fourier interferometers,
+                some practice with classic spectrometers (prisms and grids) and scanning Fabry-Perot interferometer
+                Win32 application-level programming, object oriented design of classes (Delphi and VBA preferably,
+                C and i386 assembler occasionally); *NIX (Red Hat Linux, ASP LINUX, UNIX Free BSD) user experience;
+                SQL knowledge and usage, mainly as a local data base creator/admin
+                Programming for some non IBM-compatible PCs (DVK- Russian analog of DEC PDP-11,and ASPECT-3000 from Bruker GmbH)
+                with coding of external hardware CAMAC and RS-232 bus interface service routines
+                Usage of various types of experimental devices e.g. lock-in amplifiers, boxcar integrators,
+                liquid helium cooled optical detectors with vacuum furniture etc.
+ Hobbies        Reading 
+
+ CAREER OBJECTIVES:
+                to obtain a position as a researcher or an application programmer/coder in any civilized country
+
+ E-mail: roeug20@gmail.com
+ Post:   Evgeny Romanov, Koroleva street 7-45,
+          Dimitrovgrad, Ulyanovsk region, 433506 Russia
+ Phone (home): +7(84235)35201
+ Mobile: +79278210239
+

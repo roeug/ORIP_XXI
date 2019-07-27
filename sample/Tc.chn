@@ -1,0 +1,1457 @@
+952410
+Am-241g
+5.0855E-11 // Lambda from NuclideState T=432y
+587b +3.2b // TotalSigmaC + SigmaF from NuclideState 
+1425b +14.4b // TotalRI from NuclideState + RIf
+0.23022b +1.378b // TotalSigmaFast from NuclideState + SigmaFastf
+0.9998 // g_factor from NuclideState 
+// comment 
+100%  -A // decay from NuclideState 
+4E-10%  -SF // decay from NuclideState 
+3.2b // SigmaF from NuclideState 
+14.4b // RIf from NuclideState 
+1.378b // FastFissionSigma from DataModule
+952410 end
+461020
+Pd-102
+0 // Lambda from NuclideState Stable
+3.4b // TotalSigmaC from NuclideState 
+10b // TotalRI from NuclideState 
+0.11186b // TotalSigmaFast from NuclideState 
+0.9981 // g_factor from NuclideState 
+// comment
+461020 end
+461030
+Pd-103
+4.7216E-7 // Lambda from NuclideState T=17d
+0 // SigmaC default=0
+0 // RI default=0
+0 // SigmaFast default=0
+1 // g_factor default
+// comment 
+100%  -EC // decay from NuclideState
+461030 end
+461040
+Pd-104
+0 // Lambda from NuclideState Stable
+0.6b // TotalSigmaC from NuclideState 
+16b // TotalRI from NuclideState 
+0.078029b // TotalSigmaFast from NuclideState 
+1.0005 // g_factor from NuclideState 
+// comment
+461040 end
+461050
+Pd-105
+0 // Lambda from NuclideState Stable
+20b // TotalSigmaC from NuclideState 
+62.2b // TotalRI from NuclideState 
+0 // SigmaFast default=0
+1 // g_factor from NuclideState 
+// comment
+461050 end
+461060
+Pd-106
+0 // Lambda from NuclideState Stable
+0.305b // TotalSigmaC from NuclideState 
+5.73b // TotalRI from NuclideState 
+0.073715b // TotalSigmaFast from NuclideState 
+1.0001 // g_factor from NuclideState 
+// comment
+461060 end
+942380
+Pu-238g
+2.5062E-10 // Lambda from NuclideState T=87.6y
+540b +17.9b // TotalSigmaC + SigmaF from NuclideState 
+162b +33b // TotalRI from NuclideState + RIf
+0.10297b +1.994b // TotalSigmaFast from NuclideState + SigmaFastf
+0.9565 // g_factor from NuclideState 
+// comment 
+100%  -A // decay from NuclideState 
+1.9E-7%  -SF // decay from NuclideState 
+17.9b // SigmaF from NuclideState 
+33b // RIf from NuclideState 
+1.994b // FastFissionSigma from DataModule
+942380 end
+942381
+Pu-238m
+1.1552E9 // Lambda from NuclideState T=600ps
+0 // SigmaC default=0
+162b // TotalRI from NuclideState 
+0 // SigmaFast default=0
+1 // g_factor default
+// comment 
+100%  -SF // decay from NuclideState
+942381 end
+942390
+Pu-239
+9.1164E-13 // Lambda from NuclideState T=2.4E4y
+269.3b +748.1b // TotalSigmaC + SigmaF from NuclideState 
+200b +301b // TotalRI from NuclideState + RIf
+0.056985b +1.8b // TotalSigmaFast from NuclideState + SigmaFastf
+1.1445 // g_factor from NuclideState 
+// comment 
+3E-10%  -SF // decay from NuclideState 
+100%  -A // decay from NuclideState 
+748.1b // SigmaF from NuclideState 
+301b // RIf from NuclideState 
+1.8b // FastFissionSigma from DataModule
+942390 end
+451030
+Rh-103g
+0 // Lambda from NuclideState Stable
+145b // TotalSigmaC from NuclideState 
+1100b // TotalRI from NuclideState 
+0.089982b // TotalSigmaFast from NuclideState 
+1.0231 // g_factor from NuclideState 
+// comment
+451030 end
+451031
+Rh-103m
+0.00020587 // Lambda from NuclideState T=56.1m
+0 // SigmaC default=0
+0 // RI default=0
+0 // SigmaFast default=0
+1 // g_factor default
+// comment 
+100%  -IT // decay from NuclideState
+451031 end
+451040
+Rh-104g
+0.016386 // Lambda from NuclideState T=42.3s
+40b // TotalSigmaC from NuclideState 
+0 // RI default=0
+0 // SigmaFast default=0
+1 // g_factor from NuclideState 
+// comment 
+0.45%  -EC // decay from NuclideState 
+99.55%  -B- // decay from NuclideState
+451040 end
+451041
+Rh-104m
+0.0026619 // Lambda from NuclideState T=4.34m
+800b // TotalSigmaC from NuclideState 
+0 // RI default=0
+0 // SigmaFast default=0
+1 // g_factor from NuclideState 
+// comment 
+0.13%  -B- // decay from NuclideState 
+99.87%  -IT // decay from NuclideState
+451041 end
+451050
+Rh-105g
+5.4452E-6 // Lambda from NuclideState T=1.47d
+16000b // TotalSigmaC from NuclideState 
+17000b // TotalRI from NuclideState 
+0.079606b // TotalSigmaFast from NuclideState 
+0.9973 // g_factor from NuclideState 
+// comment 
+100%  -B- // decay from NuclideState
+451050 end
+451051
+Rh-105m
+0.01612 // Lambda from NuclideState T=43s
+0 // SigmaC default=0
+0 // RI default=0
+0 // SigmaFast default=0
+1 // g_factor default
+// comment 
+100%  -IT // decay from NuclideState
+451051 end
+451060
+Rh-106g
+0.02326 // Lambda from NuclideState T=29.8s
+0 // SigmaC default=0
+0 // RI default=0
+0 // SigmaFast default=0
+1 // g_factor default
+// comment 
+100%  -B- // decay from NuclideState
+451060 end
+441000
+Ru-100
+0 // Lambda from NuclideState Stable
+5b // TotalSigmaC from NuclideState 
+11.2b // TotalRI from NuclideState 
+0.05688b // TotalSigmaFast from NuclideState 
+1.0002 // g_factor from NuclideState 
+// comment
+441000 end
+441010
+Ru-101
+0 // Lambda from NuclideState Stable
+3.4b // TotalSigmaC from NuclideState 
+100b // TotalRI from NuclideState 
+0.091217b // TotalSigmaFast from NuclideState 
+1.0014 // g_factor from NuclideState 
+// comment
+441010 end
+441020
+Ru-102
+0 // Lambda from NuclideState Stable
+1.21b // TotalSigmaC from NuclideState 
+4.2b // TotalRI from NuclideState 
+0.040986b // TotalSigmaFast from NuclideState 
+1.0002 // g_factor from NuclideState 
+// comment
+441020 end
+441030
+Ru-103g
+2.0434E-7 // Lambda from NuclideState T=39.3d
+8b // TotalSigmaC from NuclideState 
+0 // RI default=0
+0.046709b // TotalSigmaFast from NuclideState 
+1.0005 // g_factor from NuclideState 
+// comment 
+100%  -B- // decay from NuclideState
+441030 end
+441040
+Ru-104
+0 // Lambda from NuclideState Stable
+0.32b // TotalSigmaC from NuclideState 
+4.3b // TotalRI from NuclideState 
+0.033993b // TotalSigmaFast from NuclideState 
+1.0003 // g_factor from NuclideState 
+// comment
+441040 end
+441050
+Ru-105
+4.3365E-5 // Lambda from NuclideState T=4.44h
+0.39b // TotalSigmaC from NuclideState 
+0 // RI default=0
+0 // SigmaFast default=0
+1 // g_factor from NuclideState 
+// comment 
+100%  -B- // decay from NuclideState
+441050 end
+441060
+Ru-106
+2.1474E-8 // Lambda from NuclideState T=1.02y
+0.146b // TotalSigmaC from NuclideState 
+2b // TotalRI from NuclideState 
+0.017023b // TotalSigmaFast from NuclideState 
+1.0005 // g_factor from NuclideState 
+// comment 
+100%  -B- // decay from NuclideState
+441060 end
+441070
+Ru-107
+0.0030807 // Lambda from NuclideState T=3.75m
+0 // SigmaC default=0
+0 // RI default=0
+0 // SigmaFast default=0
+1 // g_factor default
+// comment 
+100%  -B- // decay from NuclideState
+441070 end
+431000
+Tc-100
+0.04387 // Lambda from NuclideState T=15.8s
+0 // SigmaC default=0
+0 // RI default=0
+0 // SigmaFast default=0
+1 // g_factor default
+// comment 
+100%  -B- // decay from NuclideState 
+0.0018%  -EC // decay from NuclideState
+431000 end
+430980
+Tc-98
+5.2332E-15 // Lambda from NuclideState T=4.2E6y
+0.93b // TotalSigmaC from NuclideState 
+0 // RI default=0
+0 // SigmaFast default=0
+1 // g_factor from NuclideState 
+// comment 
+100%  -B- // decay from NuclideState
+430980 end
+430990
+Tc-99g
+1.0412E-13 // Lambda from NuclideState T=2.1E5y
+20b // TotalSigmaC from NuclideState 
+340b // TotalRI from NuclideState 
+0.088518b // TotalSigmaFast from NuclideState 
+1.0047 // g_factor from NuclideState 
+// comment 
+100%  -B- // decay from NuclideState
+430990 end
+430991
+Tc-99m
+3.2037E-5 // Lambda from NuclideState T=6.01h
+0 // SigmaC default=0
+0 // RI default=0
+0 // SigmaFast default=0
+1 // g_factor default
+// comment 
+0.0037%  -B- // decay from NuclideState 
+100%  -IT // decay from NuclideState
+430991 end
+952410
+461020
+//decay
+3.2b*1.25E-9%  // THERMAL SigmaF*CumYieldT from NuclideList
+14.4b*1.25E-9%  // RESONANCE RIf*CumYieldT from NuclideList
+1.378b*1.79E-9%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+952410->461020 end
+952410
+461030
+//decay
+3.2b*1.27E-11%  // THERMAL SigmaF*CumYieldT from NuclideList
+14.4b*1.27E-11%  // RESONANCE RIf*CumYieldT from NuclideList
+1.378b*2.12E-11%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+952410->461030 end
+461020
+461030
+//decay
+3.4b // THERMAL Capture to 0 from NuclideList
+10b // RESONANCE RI to 0 from NuclideList
+0.1089b // FAST SigmaNG from NuclideList
+0.9981 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+461020->461030 end
+461040
+461030
+//decay
+//Thermal
+//Resonance
+0.0005917b // FAST SigmaN2N from NuclideList
+1.0005 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+461040->461030 end
+952410
+461040
+//decay
+3.2b*1.37E-9%  // THERMAL SigmaF*IndYieldT from NuclideList
+14.4b*1.37E-9%  // RESONANCE RIf*IndYieldT from NuclideList
+1.378b*1.82E-9%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+952410->461040 end
+952410
+461050
+//decay
+3.2b*9.47E-8%  // THERMAL SigmaF*IndYieldT from NuclideList
+14.4b*9.47E-8%  // RESONANCE RIf*IndYieldT from NuclideList
+1.378b*1.06E-7%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+952410->461050 end
+461040
+461050
+//decay
+0.6b // THERMAL Capture to 0 from NuclideList
+16b // RESONANCE RI to 0 from NuclideList
+0.07723b // FAST SigmaNG from NuclideList
+1.0005 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+461040->461050 end
+461060
+461050
+//decay
+//Thermal
+//Resonance
+0.0009894b // FAST SigmaN2N from NuclideList
+1.0001 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+461060->461050 end
+952410
+461060
+//decay
+3.2b*3.81E-6%  // THERMAL SigmaF*IndYieldT from NuclideList
+14.4b*3.81E-6%  // RESONANCE RIf*IndYieldT from NuclideList
+1.378b*3.89E-6%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+952410->461060 end
+461050
+461060
+//decay
+20b // THERMAL Capture to 0 from NuclideList
+62.2b // RESONANCE RI to 0 from NuclideList
+//Fast
+1 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+461050->461060 end
+942380
+461020
+//decay
+17.9b*0%  // THERMAL SigmaF*CumYieldT from NuclideList
+33b*0%  // RESONANCE RIf*CumYieldT from NuclideList
+1.994b*2.84E-10%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+942380->461020 end
+942380
+461030
+//decay
+17.9b*0%  // THERMAL SigmaF*CumYieldT from NuclideList
+33b*0%  // RESONANCE RIf*CumYieldT from NuclideList
+1.994b*3.39E-12%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+942380->461030 end
+942380
+461040
+//decay
+17.9b*0%  // THERMAL SigmaF*IndYieldT from NuclideList
+33b*0%  // RESONANCE RIf*IndYieldT from NuclideList
+1.994b*3.84E-10%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+942380->461040 end
+942380
+461050
+//decay
+17.9b*0%  // THERMAL SigmaF*IndYieldT from NuclideList
+33b*0%  // RESONANCE RIf*IndYieldT from NuclideList
+1.994b*2.76E-8%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+942380->461050 end
+942380
+461060
+//decay
+17.9b*0%  // THERMAL SigmaF*IndYieldT from NuclideList
+33b*0%  // RESONANCE RIf*IndYieldT from NuclideList
+1.994b*1.49E-6%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+942380->461060 end
+942380
+942381
+//decay
+//Thermal
+//Resonance
+// 0.7166b // FAST SigmaNN from NuclideList
+0.9565 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+942380->942381 end
+942390
+461020
+//decay
+748.1b*3.24E-10%  // THERMAL SigmaF*CumYieldT from NuclideList
+301b*3.24E-10%  // RESONANCE RIf*CumYieldT from NuclideList
+1.8b*2.71E-10%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+942390->461020 end
+942390
+461030
+//decay
+748.1b*3.64E-12%  // THERMAL SigmaF*CumYieldT from NuclideList
+301b*3.64E-12%  // RESONANCE RIf*CumYieldT from NuclideList
+1.8b*3.93E-12%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+942390->461030 end
+942390
+461040
+//decay
+748.1b*3.98E-10%  // THERMAL SigmaF*IndYieldT from NuclideList
+301b*3.98E-10%  // RESONANCE RIf*IndYieldT from NuclideList
+1.8b*5.24E-10%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+942390->461040 end
+942390
+461050
+//decay
+748.1b*2.42E-8%  // THERMAL SigmaF*IndYieldT from NuclideList
+301b*2.42E-8%  // RESONANCE RIf*IndYieldT from NuclideList
+1.8b*3.32E-8%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+942390->461050 end
+942390
+461060
+//decay
+748.1b*9.15E-7%  // THERMAL SigmaF*IndYieldT from NuclideList
+301b*9.15E-7%  // RESONANCE RIf*IndYieldT from NuclideList
+1.8b*1.53E-6%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+942390->461060 end
+942390
+942380
+//decay
+//Thermal
+//Resonance
+0.004045b // FAST SigmaN2N from NuclideList
+1.1445 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+942390->942380 end
+942380
+942390
+//decay
+540b // THERMAL Capture to 0 from NuclideList
+162b // RESONANCE RI to 0 from NuclideList
+0.0993b // FAST SigmaNG from NuclideList
+0.9565 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+942380->942390 end
+942381
+942390
+//decay
+//Thermal
+162b // RESONANCE RI to 0 from NuclideList
+//Fast
+
+// auto created by BuildDefaultLinks
+942381->942390 end
+952410
+451030
+//decay
+3.2b*1.09E-7%  // THERMAL SigmaF*IndYieldT from NuclideList
+14.4b*1.09E-7%  // RESONANCE RIf*IndYieldT from NuclideList
+1.378b*1.33E-7%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+952410->451030 end
+461030
+451030
+0.000257*1*4.7216E-7// DECAY EC*lambda from NuclideList and SubBranching added
+//Thermal
+//Resonance
+//Fast
+
+// auto created by BuildDefaultLinks
+461030->451030 end
+942380
+451030
+//decay
+17.9b*0%  // THERMAL SigmaF*IndYieldT from NuclideList
+33b*0%  // RESONANCE RIf*IndYieldT from NuclideList
+1.994b*2.42E-8%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+942380->451030 end
+942390
+451030
+//decay
+748.1b*3.33E-8%  // THERMAL SigmaF*IndYieldT from NuclideList
+301b*3.33E-8%  // RESONANCE RIf*IndYieldT from NuclideList
+1.8b*3.05E-8%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+942390->451030 end
+451031
+451030
+1*0.00020587// DECAY IT*lambda from NuclideList
+//Thermal
+//Resonance
+//Fast
+
+// auto created by BuildDefaultLinks
+451031->451030 end
+952410
+451031
+//decay
+3.2b*7.28E-7%  // THERMAL SigmaF*IndYieldT from NuclideList
+14.4b*7.28E-7%  // RESONANCE RIf*IndYieldT from NuclideList
+1.378b*9.75E-7%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+952410->451031 end
+461030
+451031
+0.99974*1*4.7216E-7// DECAY EC*lambda from NuclideList and SubBranching added
+//Thermal
+//Resonance
+//Fast
+
+// auto created by BuildDefaultLinks
+461030->451031 end
+942380
+451031
+//decay
+17.9b*0%  // THERMAL SigmaF*IndYieldT from NuclideList
+33b*0%  // RESONANCE RIf*IndYieldT from NuclideList
+1.994b*1.77E-7%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+942380->451031 end
+942390
+451031
+//decay
+748.1b*2.23E-7%  // THERMAL SigmaF*IndYieldT from NuclideList
+301b*2.23E-7%  // RESONANCE RIf*IndYieldT from NuclideList
+1.8b*2.24E-7%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+942390->451031 end
+451030
+451031
+//decay
+//Thermal
+//Resonance
+// 1.58b // FAST SigmaNN from NuclideList
+1.0231 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+451030->451031 end
+451040
+461040
+0.9955*0.016386// DECAY B-*lambda from NuclideList
+//Thermal
+//Resonance
+//Fast
+
+// auto created by BuildDefaultLinks
+451040->461040 end
+952410
+451040
+//decay
+3.2b*6.68E-6%  // THERMAL SigmaF*IndYieldT from NuclideList
+14.4b*6.68E-6%  // RESONANCE RIf*IndYieldT from NuclideList
+1.378b*6.58E-6%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+952410->451040 end
+461040
+451040
+//decay
+//Thermal
+//Resonance
+0.0001264b // FAST SigmaNP from NuclideList
+1.0005 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+461040->451040 end
+942380
+451040
+//decay
+17.9b*0%  // THERMAL SigmaF*IndYieldT from NuclideList
+33b*0%  // RESONANCE RIf*IndYieldT from NuclideList
+1.994b*1.32E-6%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+942380->451040 end
+942390
+451040
+//decay
+748.1b*1.76E-6%  // THERMAL SigmaF*IndYieldT from NuclideList
+301b*1.76E-6%  // RESONANCE RIf*IndYieldT from NuclideList
+1.8b*1.87E-6%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+942390->451040 end
+451030
+451040
+//decay
+135b // THERMAL Capture to 0 from NuclideList
+1025b // RESONANCE RI to 0 from NuclideList
+0.08896b // FAST SigmaNG from NuclideList
+1.0231 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+451030->451040 end
+451041
+461040
+0.0013*0.0026619// DECAY B-*lambda from NuclideList
+//Thermal
+//Resonance
+//Fast
+
+// auto created by BuildDefaultLinks
+451041->461040 end
+451041
+451040
+0.9987*0.0026619// DECAY IT*lambda from NuclideList
+//Thermal
+//Resonance
+//Fast
+
+// auto created by BuildDefaultLinks
+451041->451040 end
+952410
+451041
+//decay
+3.2b*2.01E-5%  // THERMAL SigmaF*CumYieldT from NuclideList
+14.4b*2.01E-5%  // RESONANCE RIf*CumYieldT from NuclideList
+1.378b*2.33E-5%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+952410->451041 end
+942380
+451041
+//decay
+17.9b*0%  // THERMAL SigmaF*CumYieldT from NuclideList
+33b*0%  // RESONANCE RIf*CumYieldT from NuclideList
+1.994b*4.68E-6%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+942380->451041 end
+942390
+451041
+//decay
+748.1b*5.27E-6%  // THERMAL SigmaF*CumYieldT from NuclideList
+301b*5.27E-6%  // RESONANCE RIf*CumYieldT from NuclideList
+1.8b*6.63E-6%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+942390->451041 end
+451030
+451041
+//decay
+10b // THERMAL Capture to 1 from NuclideList
+75b // RESONANCE RI to 1 from NuclideList
+//Fast
+1.0231 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+451030->451041 end
+451050
+461050
+1*5.4452E-6// DECAY B-*lambda from NuclideList
+//Thermal
+//Resonance
+//Fast
+
+// auto created by BuildDefaultLinks
+451050->461050 end
+451050
+451040
+//decay
+//Thermal
+//Resonance
+0.001551b // FAST SigmaN2N from NuclideList
+0.9973 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+451050->451040 end
+952410
+451050
+//decay
+3.2b*0.000508%  // THERMAL SigmaF*IndYieldT from NuclideList
+14.4b*0.000508%  // RESONANCE RIf*IndYieldT from NuclideList
+1.378b*0.000453%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+952410->451050 end
+942380
+451050
+//decay
+17.9b*0%  // THERMAL SigmaF*IndYieldT from NuclideList
+33b*0%  // RESONANCE RIf*IndYieldT from NuclideList
+1.994b*0.000131%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+942380->451050 end
+942390
+451050
+//decay
+748.1b*0.000138%  // THERMAL SigmaF*IndYieldT from NuclideList
+301b*0.000138%  // RESONANCE RIf*IndYieldT from NuclideList
+1.8b*0.000163%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+942390->451050 end
+451040
+451050
+//decay
+40b // THERMAL Capture to 0 from NuclideList
+//Resonance
+//Fast
+1 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+451040->451050 end
+451041
+451050
+//decay
+800b // THERMAL Capture to 0 from NuclideList
+//Resonance
+//Fast
+1 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+451041->451050 end
+451051
+451050
+1*0.01612// DECAY IT*lambda from NuclideList
+//Thermal
+//Resonance
+//Fast
+
+// auto created by BuildDefaultLinks
+451051->451050 end
+952410
+451051
+//decay
+3.2b*7.6E-5%  // THERMAL SigmaF*IndYieldT from NuclideList
+14.4b*7.6E-5%  // RESONANCE RIf*IndYieldT from NuclideList
+1.378b*6.18E-5%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+952410->451051 end
+942380
+451051
+//decay
+17.9b*0%  // THERMAL SigmaF*IndYieldT from NuclideList
+33b*0%  // RESONANCE RIf*IndYieldT from NuclideList
+1.994b*1.79E-5%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+942380->451051 end
+942390
+451051
+//decay
+748.1b*2.07E-5%  // THERMAL SigmaF*IndYieldT from NuclideList
+301b*2.07E-5%  // RESONANCE RIf*IndYieldT from NuclideList
+1.8b*2.22E-5%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+942390->451051 end
+451050
+451051
+//decay
+//Thermal
+//Resonance
+// 1.493b // FAST SigmaNN from NuclideList
+0.9973 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+451050->451051 end
+451060
+461060
+1*0.02326// DECAY B-*lambda from NuclideList
+//Thermal
+//Resonance
+//Fast
+
+// auto created by BuildDefaultLinks
+451060->461060 end
+952410
+451060
+//decay
+3.2b*0.00337%  // THERMAL SigmaF*IndYieldT from NuclideList
+14.4b*0.00337%  // RESONANCE RIf*IndYieldT from NuclideList
+1.378b*0.00304%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+952410->451060 end
+461060
+451060
+//decay
+//Thermal
+//Resonance
+1.356E-5b // FAST SigmaNP from NuclideList
+1.0001 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+461060->451060 end
+942380
+451060
+//decay
+17.9b*0%  // THERMAL SigmaF*IndYieldT from NuclideList
+33b*0%  // RESONANCE RIf*IndYieldT from NuclideList
+1.994b*0.00101%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+942380->451060 end
+942390
+451060
+//decay
+748.1b*0.000222%  // THERMAL SigmaF*IndYieldT from NuclideList
+301b*0.000222%  // RESONANCE RIf*IndYieldT from NuclideList
+1.8b*0.0011%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+942390->451060 end
+451050
+451060
+//decay
+11000b // THERMAL Capture to 0 from NuclideList
+17000b // RESONANCE RI to 0 from NuclideList
+0.07803b // FAST SigmaNG from NuclideList
+0.9973 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+451050->451060 end
+952410
+441000
+//decay
+3.2b*1.28E-7%  // THERMAL SigmaF*IndYieldT from NuclideList
+14.4b*1.28E-7%  // RESONANCE RIf*IndYieldT from NuclideList
+1.378b*2.5E-7%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+952410->441000 end
+942380
+441000
+//decay
+17.9b*0%  // THERMAL SigmaF*IndYieldT from NuclideList
+33b*0%  // RESONANCE RIf*IndYieldT from NuclideList
+1.994b*4.59E-8%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+942380->441000 end
+942390
+441000
+//decay
+748.1b*7.07E-8%  // THERMAL SigmaF*IndYieldT from NuclideList
+301b*7.07E-8%  // RESONANCE RIf*IndYieldT from NuclideList
+1.8b*3.87E-8%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+942390->441000 end
+441010
+441000
+//decay
+//Thermal
+//Resonance
+0.008553b // FAST SigmaN2N from NuclideList
+1.0014 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+441010->441000 end
+952410
+441010
+//decay
+3.2b*6%  // THERMAL SigmaF*CumYieldT from NuclideList
+14.4b*6%  // RESONANCE RIf*CumYieldT from NuclideList
+1.378b*6.1%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+952410->441010 end
+461040
+441010
+//decay
+//Thermal
+//Resonance
+8.104E-5b // FAST SigmaNA from NuclideList
+1.0005 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+461040->441010 end
+942380
+441010
+//decay
+17.9b*0%  // THERMAL SigmaF*CumYieldT from NuclideList
+33b*0%  // RESONANCE RIf*CumYieldT from NuclideList
+1.994b*6.05%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+942380->441010 end
+942390
+441010
+//decay
+748.1b*6.02%  // THERMAL SigmaF*CumYieldT from NuclideList
+301b*6.02%  // RESONANCE RIf*CumYieldT from NuclideList
+1.8b*6.67%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+942390->441010 end
+441000
+441010
+//decay
+5b // THERMAL Capture to 0 from NuclideList
+11.2b // RESONANCE RI to 0 from NuclideList
+0.05592b // FAST SigmaNG from NuclideList
+1.0002 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+441000->441010 end
+441020
+441010
+//decay
+//Thermal
+//Resonance
+0.001305b // FAST SigmaN2N from NuclideList
+1.0002 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+441020->441010 end
+952410
+441020
+//decay
+3.2b*6.18%  // THERMAL SigmaF*CumYieldT from NuclideList
+14.4b*6.18%  // RESONANCE RIf*CumYieldT from NuclideList
+1.378b*6.06%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+952410->441020 end
+942380
+441020
+//decay
+17.9b*0%  // THERMAL SigmaF*CumYieldT from NuclideList
+33b*0%  // RESONANCE RIf*CumYieldT from NuclideList
+1.994b*6.14%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+942380->441020 end
+942390
+441020
+//decay
+748.1b*6.13%  // THERMAL SigmaF*CumYieldT from NuclideList
+301b*6.13%  // RESONANCE RIf*CumYieldT from NuclideList
+1.8b*6.73%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+942390->441020 end
+441010
+441020
+//decay
+3.4b // THERMAL Capture to 0 from NuclideList
+100b // RESONANCE RI to 0 from NuclideList
+0.08257b // FAST SigmaNG from NuclideList
+1.0014 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+441010->441020 end
+441030
+451030
+0.00255*1*2.0434E-7// DECAY B-*lambda from NuclideList and SubBranching added
+//Thermal
+//Resonance
+//Fast
+
+// auto created by BuildDefaultLinks
+441030->451030 end
+441030
+451031
+0.99745*1*2.0434E-7// DECAY B-*lambda from NuclideList and SubBranching added
+//Thermal
+//Resonance
+//Fast
+
+// auto created by BuildDefaultLinks
+441030->451031 end
+441030
+441020
+//decay
+//Thermal
+//Resonance
+0.01413b // FAST SigmaN2N from NuclideList
+1.0005 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+441030->441020 end
+952410
+441030
+//decay
+3.2b*6.23%  // THERMAL SigmaF*CumYieldT from NuclideList
+14.4b*6.23%  // RESONANCE RIf*CumYieldT from NuclideList
+1.378b*6.45%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+952410->441030 end
+461060
+441030
+//decay
+//Thermal
+//Resonance
+1.167E-5b // FAST SigmaNA from NuclideList
+1.0001 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+461060->441030 end
+942380
+441030
+//decay
+17.9b*0%  // THERMAL SigmaF*CumYieldT from NuclideList
+33b*0%  // RESONANCE RIf*CumYieldT from NuclideList
+1.994b*5.9%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+942380->441030 end
+942390
+441030
+//decay
+748.1b*6.99%  // THERMAL SigmaF*CumYieldT from NuclideList
+301b*6.99%  // RESONANCE RIf*CumYieldT from NuclideList
+1.8b*6.83%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+942390->441030 end
+451030
+441030
+//decay
+//Thermal
+//Resonance
+0.0002005b // FAST SigmaNP from NuclideList
+1.0231 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+451030->441030 end
+441020
+441030
+//decay
+1.2b // THERMAL Capture to 0 from NuclideList
+4.2b // RESONANCE RI to 0 from NuclideList
+0.03967b // FAST SigmaNG from NuclideList
+1.0002 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+441020->441030 end
+441040
+441030
+//decay
+//Thermal
+//Resonance
+0.002001b // FAST SigmaN2N from NuclideList
+1.0003 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+441040->441030 end
+952410
+441040
+//decay
+3.2b*0.0243%  // THERMAL SigmaF*IndYieldT from NuclideList
+14.4b*0.0243%  // RESONANCE RIf*IndYieldT from NuclideList
+1.378b*0.0243%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+952410->441040 end
+942380
+441040
+//decay
+17.9b*0%  // THERMAL SigmaF*IndYieldT from NuclideList
+33b*0%  // RESONANCE RIf*IndYieldT from NuclideList
+1.994b*0.0112%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+942380->441040 end
+942390
+441040
+//decay
+748.1b*0.0244%  // THERMAL SigmaF*IndYieldT from NuclideList
+301b*0.0244%  // RESONANCE RIf*IndYieldT from NuclideList
+1.8b*0.0152%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+942390->441040 end
+451040
+441040
+0.0045*0.016386// DECAY EC*lambda from NuclideList
+//Thermal
+//Resonance
+//Fast
+
+// auto created by BuildDefaultLinks
+451040->441040 end
+441030
+441040
+//decay
+8b // THERMAL Capture to 0 from NuclideList
+//Resonance
+0.03257b // FAST SigmaNG from NuclideList
+1.0005 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+441030->441040 end
+441050
+451050
+0.762*1*4.3365E-5// DECAY B-*lambda from NuclideList and SubBranching added
+//Thermal
+//Resonance
+//Fast
+
+// auto created by BuildDefaultLinks
+441050->451050 end
+441050
+451051
+0.238*1*4.3365E-5// DECAY B-*lambda from NuclideList and SubBranching added
+//Thermal
+//Resonance
+//Fast
+
+// auto created by BuildDefaultLinks
+441050->451051 end
+952410
+441050
+//decay
+3.2b*6.64%  // THERMAL SigmaF*CumYieldT from NuclideList
+14.4b*6.64%  // RESONANCE RIf*CumYieldT from NuclideList
+1.378b*5.34%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+952410->441050 end
+942380
+441050
+//decay
+17.9b*0%  // THERMAL SigmaF*CumYieldT from NuclideList
+33b*0%  // RESONANCE RIf*CumYieldT from NuclideList
+1.994b*4.76%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+942380->441050 end
+942390
+441050
+//decay
+748.1b*5.64%  // THERMAL SigmaF*CumYieldT from NuclideList
+301b*5.64%  // RESONANCE RIf*CumYieldT from NuclideList
+1.8b*5.36%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+942390->441050 end
+451050
+441050
+//decay
+//Thermal
+//Resonance
+2.303E-5b // FAST SigmaNP from NuclideList
+0.9973 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+451050->441050 end
+441040
+441050
+//decay
+0.32b // THERMAL Capture to 0 from NuclideList
+4.3b // RESONANCE RI to 0 from NuclideList
+0.03199b // FAST SigmaNG from NuclideList
+1.0003 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+441040->441050 end
+441060
+451060
+1*2.1474E-8// DECAY B-*lambda from NuclideList
+//Thermal
+//Resonance
+//Fast
+
+// auto created by BuildDefaultLinks
+441060->451060 end
+441060
+441050
+//decay
+//Thermal
+//Resonance
+0.002712b // FAST SigmaN2N from NuclideList
+1.0005 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+441060->441050 end
+952410
+441060
+//decay
+3.2b*5.95%  // THERMAL SigmaF*CumYieldT from NuclideList
+14.4b*5.95%  // RESONANCE RIf*CumYieldT from NuclideList
+1.378b*4.81%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+952410->441060 end
+942380
+441060
+//decay
+17.9b*0%  // THERMAL SigmaF*CumYieldT from NuclideList
+33b*0%  // RESONANCE RIf*CumYieldT from NuclideList
+1.994b*4.24%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+942380->441060 end
+942390
+441060
+//decay
+748.1b*4.35%  // THERMAL SigmaF*CumYieldT from NuclideList
+301b*4.35%  // RESONANCE RIf*CumYieldT from NuclideList
+1.8b*4.36%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+942390->441060 end
+441050
+441060
+//decay
+0.39b // THERMAL Capture to 0 from NuclideList
+//Resonance
+//Fast
+1 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+441050->441060 end
+952410
+441070
+//decay
+3.2b*5.22%  // THERMAL SigmaF*CumYieldT from NuclideList
+14.4b*5.22%  // RESONANCE RIf*CumYieldT from NuclideList
+1.378b*5.08%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+952410->441070 end
+942380
+441070
+//decay
+17.9b*0%  // THERMAL SigmaF*CumYieldT from NuclideList
+33b*0%  // RESONANCE RIf*CumYieldT from NuclideList
+1.994b*2.99%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+942380->441070 end
+942390
+441070
+//decay
+748.1b*3.25%  // THERMAL SigmaF*CumYieldT from NuclideList
+301b*3.25%  // RESONANCE RIf*CumYieldT from NuclideList
+1.8b*3.2%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+942390->441070 end
+441060
+441070
+//decay
+0.146b // THERMAL Capture to 0 from NuclideList
+2b // RESONANCE RI to 0 from NuclideList
+0.01431b // FAST SigmaNG from NuclideList
+1.0005 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+441060->441070 end
+431000
+441000
+1*0.04387// DECAY B-*lambda from NuclideList
+//Thermal
+//Resonance
+//Fast
+
+// auto created by BuildDefaultLinks
+431000->441000 end
+952410
+431000
+//decay
+3.2b*0.00068%  // THERMAL SigmaF*CumYieldT from NuclideList
+14.4b*0.00068%  // RESONANCE RIf*CumYieldT from NuclideList
+1.378b*0.00099%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+952410->431000 end
+942380
+431000
+//decay
+17.9b*0%  // THERMAL SigmaF*CumYieldT from NuclideList
+33b*0%  // RESONANCE RIf*CumYieldT from NuclideList
+1.994b*0.000198%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+942380->431000 end
+942390
+431000
+//decay
+748.1b*0.000307%  // THERMAL SigmaF*CumYieldT from NuclideList
+301b*0.000307%  // RESONANCE RIf*CumYieldT from NuclideList
+1.8b*0.000192%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+942390->431000 end
+451030
+431000
+//decay
+//Thermal
+//Resonance
+1.952E-5b // FAST SigmaNA from NuclideList
+1.0231 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+451030->431000 end
+441000
+431000
+//decay
+//Thermal
+//Resonance
+1.843E-5b // FAST SigmaNP from NuclideList
+1.0002 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+441000->431000 end
+952410
+430980
+//decay
+3.2b*7.03E-7%  // THERMAL SigmaF*CumYieldT from NuclideList
+14.4b*7.03E-7%  // RESONANCE RIf*CumYieldT from NuclideList
+1.378b*2.21E-6%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+952410->430980 end
+942380
+430980
+//decay
+17.9b*0%  // THERMAL SigmaF*CumYieldT from NuclideList
+33b*0%  // RESONANCE RIf*CumYieldT from NuclideList
+1.994b*2.56E-7%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+942380->430980 end
+942390
+430980
+//decay
+748.1b*4.17E-7%  // THERMAL SigmaF*CumYieldT from NuclideList
+301b*4.17E-7%  // RESONANCE RIf*CumYieldT from NuclideList
+1.8b*2.33E-7%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+942390->430980 end
+430990
+431000
+//decay
+20b // THERMAL Capture to 0 from NuclideList
+340b // RESONANCE RI to 0 from NuclideList
+0.0871b // FAST SigmaNG from NuclideList
+1.0047 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+430990->431000 end
+430990
+430980
+//decay
+//Thermal
+//Resonance
+0.001336b // FAST SigmaN2N from NuclideList
+1.0047 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+430990->430980 end
+952410
+430990
+//decay
+3.2b*2.39E-5%  // THERMAL SigmaF*IndYieldT from NuclideList
+14.4b*2.39E-5%  // RESONANCE RIf*IndYieldT from NuclideList
+1.378b*4.61E-5%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+952410->430990 end
+942380
+430990
+//decay
+17.9b*0%  // THERMAL SigmaF*IndYieldT from NuclideList
+33b*0%  // RESONANCE RIf*IndYieldT from NuclideList
+1.994b*8.43E-6%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+942380->430990 end
+942390
+430990
+//decay
+748.1b*1.2E-5%  // THERMAL SigmaF*IndYieldT from NuclideList
+301b*1.2E-5%  // RESONANCE RIf*IndYieldT from NuclideList
+1.8b*7.26E-6%  // Fast SigmaF*IndYieldF from DM
+
+// auto created by BuildDefaultLinks
+942390->430990 end
+430991
+430990
+1*3.2037E-5// DECAY IT*lambda from NuclideList
+//Thermal
+//Resonance
+//Fast
+
+// auto created by BuildDefaultLinks
+430991->430990 end
+952410
+430991
+//decay
+3.2b*5.83%  // THERMAL SigmaF*CumYieldT from NuclideList
+14.4b*5.83%  // RESONANCE RIf*CumYieldT from NuclideList
+1.378b*4.75%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+952410->430991 end
+942380
+430991
+//decay
+17.9b*0%  // THERMAL SigmaF*CumYieldT from NuclideList
+33b*0%  // RESONANCE RIf*CumYieldT from NuclideList
+1.994b*5.38%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+942380->430991 end
+942390
+430991
+//decay
+748.1b*5.47%  // THERMAL SigmaF*CumYieldT from NuclideList
+301b*5.47%  // RESONANCE RIf*CumYieldT from NuclideList
+1.8b*5.26%  // Fast SigmaF*CumYieldF from DM
+
+// auto created by BuildDefaultLinks
+942390->430991 end
+430980
+430991
+//decay
+0.93b // THERMAL Capture to 1 from NuclideList
+//Resonance
+//Fast
+1 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+430980->430991 end
+430990
+430991
+//decay
+//Thermal
+//Resonance
+// 1.324b // FAST SigmaNN from NuclideList
+1.0047 // G_FACTOR from NuclideList
+// auto created by BuildDefaultLinks
+430990->430991 end
