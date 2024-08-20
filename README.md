@@ -15,4 +15,5 @@ ORIP_XXI (NKE+ChainSolver+ChainFinder) {AllInOneORIP_XXI.zip file} about 4.5MB.
 
 The page was written with {UltraEdit} and tested with {Opera }
 
+ 64-bit versions (the last ones) are at Gitlab now
  
